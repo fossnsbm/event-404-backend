@@ -1,0 +1,36 @@
+{
+  "name": "event-404-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon --exec npx babel-node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fossnsbm/event-404-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fossnsbm/event-404-backend/issues"
+  },
+  "homepage": "https://github.com/fossnsbm/event-404-backend#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.12.13",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.12.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.16",
+    "@babel/core": "^7.12.16",
+    "@babel/node": "^7.12.16",
+    "@babel/plugin-transform-runtime": "^7.12.15",
+    "@babel/preset-env": "^7.12.16",
+    "nodemon": "^2.0.4"
+  }
+}
