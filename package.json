@@ -1,5 +1,5 @@
 {
-  "name": "rsvp-back-end",
+  "name": "event-404-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nimeshkavinda/rsvp-back-end.git"
+    "url": "git+https://github.com/fossnsbm/event-404-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nimeshkavinda/rsvp-back-end/issues"
+    "url": "https://github.com/fossnsbm/event-404-backend/issues"
   },
-  "homepage": "https://github.com/nimeshkavinda/rsvp-back-end#readme",
+  "homepage": "https://github.com/fossnsbm/event-404-backend#readme",
   "dependencies": {
     "@babel/runtime": "^7.12.13",
     "body-parser": "^1.19.0",
